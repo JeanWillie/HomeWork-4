@@ -9,13 +9,18 @@ color: rgb(21, 232, 255);
 font-family: impact;
 
 }
-
+.container-menu{
+    display: flex;
+    margin: auto;
+    width: 30%;
+}
 .menu{
     text-decoration: none;
     color: rgb(165, 165, 165);
     font-family: impact;
     text-align: center;
     transition: 1s;
+   
 
 }
 
@@ -25,6 +30,7 @@ font-family: impact;
 .fondo-menu{
     transition: 1s;
     margin: auto;
+    padding: 0%;
    
 }
 .fondo-menu:hover{
