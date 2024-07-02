@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: antiquewhite;
+}
+
+.titulo{
+
+color: rgb(21, 232, 255);
+font-family: impact;
+
+}
+
+.menu{
+    text-decoration: none;
+    color: rgb(165, 165, 165);
+    font-family: impact;
+    text-align: center;
+    transition: 1s;
+
+}
+
+.menu:hover{
+    color: aliceblue;
+}
+.fondo-menu{
+    transition: 1s;
+    margin: auto;
+   
+}
+.fondo-menu:hover{
+    background-color: rgba(15, 185, 247, 0.309);
+    border-radius: 2vw;
+    padding: 2vw 2vw 2vw 2vw;
+    
+}
+
+
+.articulo1{
+
+    background-color: rgba(0, 255, 255, 0.141);
+    text-align: justify;
+    margin-left: 30vh;
+    margin-right: 30vh;
+    padding: 2vw 2vw 2vw 2vw;
+    border-radius: 3vw;
+  
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+}
+h3#titulo1{
+    font-size: 2em;
+  
+}
